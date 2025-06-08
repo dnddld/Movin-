@@ -33,8 +33,8 @@ frontend/.env #VITE_TMDB_API_KEY,VITE_YOUTUBE_API_KEY,VITE_API_URL=http://localh
 
 | 이름     | 역할         | 주요 담당 |
 |----------|--------------|-----------|
-| 정의환   | 팀장, 프론트엔드 | Vue.js 기반 전체 UI/UX 개발, 상태관리(Pinia), API 연동, GPT 추천 결과 시각화 |
-| 최지웅   | 팀원, 백엔드     | Django 서버 구축, 모델링 및 DB 설계, REST API 개발, OpenAI 통신 로직 구현 |
+| [정의환](https://github.com/justicehwan)   | 팀장, 프론트엔드 | Vue.js 기반 전체 UI/UX 개발, 상태관리(Pinia), API 연동, GPT 추천 결과 시각화 |
+| [최지웅](https://github.com/dnddld)   | 팀원, 백엔드     | Django 서버 구축, 모델링 및 DB 설계, REST API 개발, OpenAI 통신 로직 구현 |
 ---
 
 ## 🎯 목표 서비스 구현 및 실제 구현 정도
